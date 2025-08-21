@@ -6,8 +6,11 @@
 *.trace.db
 /data/
 
-# IDE files 
+# IDE files (Eclipse)
 /.settings/
 /.classpath
 /.project
 /.factorypath
+
+# Other temporary files
+/Test_Evidence/
