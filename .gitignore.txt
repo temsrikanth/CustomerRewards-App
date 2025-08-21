@@ -1,0 +1,13 @@
+# Maven build output
+/target/
+
+# H2 Database files
+*.mv.db
+*.trace.db
+/data/
+
+# IDE files 
+/.settings/
+/.classpath
+/.project
+/.factorypath
