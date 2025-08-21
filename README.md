@@ -64,28 +64,28 @@ Adds a new customer to the database.
 -   **Request Body**:
     ```json
     [
-  {
-    "customerId": "C001",
-    "amount": 120,
-    "date": "2025-06-15"
-  },
-  {
-    "customerId": "C001",
-    "amount": 85,
-    "date": "2025-07-20"
-  },
-  {
-    "customerId": "C001",
-    "amount": 45,
-    "date": "2025-08-01"
-  },
-  {
-    "customerId": "C001",
-    "amount": 150,
-    "date": "2025-08-10"
-  }
-]
-```
+      {
+        "customerId": "C001",
+        "amount": 120,
+        "date": "2025-06-15"
+      },
+      {
+        "customerId": "C001",
+        "amount": 85,
+        "date": "2025-07-20"
+      },
+      {
+        "customerId": "C001",
+        "amount": 45,
+        "date": "2025-08-01"
+      },
+      {
+        "customerId": "C001",
+        "amount": 150,
+        "date": "2025-08-10"
+      }
+    ]
+      ```
 
 ### Get Customer Rewards
 Retrieves the reward points for a specific customer.
